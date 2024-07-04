@@ -1,0 +1,21 @@
+@media (min-width:300px) and (max-width:3000px){
+    .design{
+        text-align: center;
+        background-color: rgb(231, 120, 231);
+    }
+    .design:focus{
+        color:aqua
+    }
+    h1{
+        text-align: center;
+        background-color: chartreuse;
+    }
+    #submit:hover{
+        border-color: black;
+        background-color:aquamarine;
+    }
+    #cancel:hover{
+        border-color: black;
+        background-color:aquamarine;
+    }
+}
