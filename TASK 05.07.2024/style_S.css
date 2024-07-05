@@ -1,9 +1,0 @@
-table,tr,td{
-    border: solid;
-    border-collapse: collapse;
-    width: 320px;
-    height: 40px;
-}
-.black{
-    background-color: black;
-}
