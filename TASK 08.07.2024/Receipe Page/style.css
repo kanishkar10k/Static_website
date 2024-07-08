@@ -1,0 +1,30 @@
+.header{
+    background-color:green;
+    font-size: xx-large;
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+.head{
+    color: purple;
+}
+.block1{
+    padding-left: 20px;
+    border: 1px solid white;
+    background-color: aliceblue;
+}
+.block2{
+    padding-left: 20px;
+    border: 1px solid white;
+    background-color: aliceblue;
+}
+.block3{
+    padding-left: 20px;
+    border: 1px solid white;
+    background-color: aliceblue;
+}
+.body{
+    padding-left: 30px;
+    padding-right: 30px;
+}
